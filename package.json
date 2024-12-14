@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.2.5",
+    "@google-cloud/storage": "^6.1.0",
+    "axios": "^0.27.2",
+    "bytes32": "0.0.3",
+    "cheerio": "^1.0.0-rc.12",
+    "coingecko-api": "^1.0.10",
+    "dotenv": "^14.3.2",
+    "ethereumjs-abi": "^0.6.8",
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "5.4",
+    "fs": "0.0.1-security",
+    "google-spreadsheet": "^3.3.0",
+    "googleapis": "^39.2.0",
+    "image-lib": "0.0.1-security",
+    "lz-string": "^1.5.0",
+    "lz4js": "^0.2.0",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.6",
+    "pako": "^2.1.0",
+    "puppeteer": "^19.7.4",
+    "sleep": "^6.3.0",
+    "web3": "^1.7.0",
+    "xlsx": "^0.18.5",
+    "zlib": "^1.0.5"
+  }
+}
